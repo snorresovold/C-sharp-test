@@ -1,0 +1,15 @@
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\bin\Debug\net6.0\C-sharp-pr-ve.exe
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\bin\Debug\net6.0\C-sharp-pr-ve.deps.json
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\bin\Debug\net6.0\C-sharp-pr-ve.runtimeconfig.json
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\bin\Debug\net6.0\C-sharp-pr-ve.dll
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\bin\Debug\net6.0\C-sharp-pr-ve.pdb
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\C-sharp-pr-ve.csproj.AssemblyReference.cache
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\C-sharp-pr-ve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\C-sharp-pr-ve.AssemblyInfoInputs.cache
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\C-sharp-pr-ve.AssemblyInfo.cs
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\C-sharp-pr-ve.csproj.CoreCompileInputs.cache
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\C-sharp-pr-ve.dll
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\refint\C-sharp-pr-ve.dll
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\C-sharp-pr-ve.pdb
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\C-sharp-pr-ve.genruntimeconfig.cache
+C:\Users\SnorreSøvold\Documents\GitHub\C-sharp-pr-ve\obj\Debug\net6.0\ref\C-sharp-pr-ve.dll
